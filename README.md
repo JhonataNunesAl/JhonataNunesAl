@@ -3,6 +3,8 @@
 <hr>
 <h2>Technologies:</h2>
 
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <h2>Languages:</h2>
@@ -14,6 +16,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataNunesAl&size=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JhonataNunesAl&layout=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataNunesAl&size=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataNunesAl&layout=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataNunesAl&bg=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
