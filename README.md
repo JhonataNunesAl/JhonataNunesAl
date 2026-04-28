@@ -1,5 +1,5 @@
-﻿<h1 align="center">Olá 👋, eu sou o Jonathan Nascimento!</h1>
-<h3 align="center">Analista B.I (React & Python) | Entusiasta de Inteligência Artificial e RPA</h3>
+﻿<h1 align="center">Olá 👋, Sou Jhonata Almeida!</h1>
+<h3 align="center">Trainee in Business Intelligence | WPP Media – MFG Team</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonata-nunes-almeida-49877b299/" target="_blank">
