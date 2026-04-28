@@ -36,19 +36,19 @@
 ### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <a href="https://github.com/JONATHAN-DEV-01" target="_blank">
+  <a href="https://github.com/JhonataNunesAl" target="_blank">
     <img src="https://api-meus-status.vercel.app/api?username=JONATHAN-DEV-01&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" height="150" alt="Estatísticas do GitHub" />
   </a>
-  <a href="https://github.com/JONATHAN-DEV-01" target="_blank">
+  <a href="https://github.com/JhonataNunesAl" target="_blank">
     <img src="https://api-meus-status.vercel.app/api/top-langs/?username=JONATHAN-DEV-01&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" height="150" alt="Linguagens Mais Usadas" />
   </a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JONATHAN-DEV-01/JONATHAN-DEV-01/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JONATHAN-DEV-01/JONATHAN-DEV-01/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Game" src="https://raw.githubusercontent.com/JONATHAN-DEV-01/JONATHAN-DEV-01/output/pacman-contribution-graph-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonataNunesAl/JhonataNunesAl/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonataNunesAl/JhonataNunesAl/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Game" src="https://raw.githubusercontent.com/JhonataNunesAl/JhonataNunesAl/output/pacman-contribution-graph-dark.svg" width="100%">
   </picture>
 </p>
 
@@ -57,18 +57,18 @@
 ### 🏆 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/JONATHAN-DEV-01/gestao_estoque" target="_blank">
+  <a href="https://github.com/JhonataNunesAl/gestao_estoque" target="_blank">
     <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=gestao_estoque&amp;theme=dracula&amp;hide_border=true" alt="Projeto Gestão de Estoque" />
   </a>
-  <a href="https://github.com/JONATHAN-DEV-01/rpa_final" target="_blank">
+  <a href="https://github.com/JhonataNunesAl/rpa_final" target="_blank">
     <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=rpa_final&amp;theme=dracula&amp;hide_border=true" alt="Projeto RPA Final" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/JONATHAN-DEV-01/IA_Recomendacao_jogos" target="_blank">
+  <a href="https://github.com/JhonataNunesAl/IA_Recomendacao_jogos" target="_blank">
     <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=IA_Recomendacao_jogos&amp;theme=dracula&amp;hide_border=true" alt="Projeto IA Recomendação de Jogos" />
   </a>
-  <a href="https://github.com/JONATHAN-DEV-01/Sistema-Feedback" target="_blank">
+  <a href="https://github.com/JhonataNunesAl/Sistema-Feedback" target="_blank">
     <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=Sistema-Feedback&amp;theme=dracula&amp;hide_border=true" alt="Sistema de Feedback" />
   </a>
 </p>
