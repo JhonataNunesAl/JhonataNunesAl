@@ -1,6 +1,81 @@
+﻿<h1 align="center">Olá 👋, eu sou o Jonathan Nascimento!</h1>
+<h3 align="center">Desenvolvedor Fullstack (React & Python) | Entusiasta de Inteligência Artificial e RPA</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhonata-nunes-almeida-49877b299/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:yorn.exe@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/ffffff/gmail-new.png" alt="Email" height="35" width="35" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 🏢 Atualmente sou estagiário como B.I na **WPP Media (Time: Media Futures Group)**.
+- 🎓 Estudante de **Sistemas de Informação na Faculdade Impacta** (previsão de formatura em 12/2027).
+- 💻 Construo automações completas usando **Python** no backend ou **JavaScript** no AppScript.
+- 🏗️ Foco em boas práticas de engenharia de software, utilizando padrões como **MVC** e **Arquitetura Hexagonal** para criar sistemas escaláveis e de fácil manutenção.
+- ⚙️ Entusiasta de RPA (Automação de Processos Robóticos) utilizando **PyAutoGUI**, **Selenium** e implementação de IAs (Sklearn, Pandas).
+- ☁️ Experiência com bancos de dados (**MySQL, PostgreSQL**) e deploy utilizando **Render, Vercel, Supabase e Docker**.
+- 🌐 Tenho bastante interesse na área de B.I e DevOps.
+
+---
+
+### 🛠️ Linguagens e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,flask,mysql,postgres,react,js,ts,html,css,figma,wordpress,docker,git&amp;perline=7" alt="Habilidades" />
+</p>
+
+---
+
+### 📊 Estatísticas e Atividade
+
+<p align="center">
+  <a href="https://github.com/JONATHAN-DEV-01" target="_blank">
+    <img src="https://api-meus-status.vercel.app/api?username=JONATHAN-DEV-01&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" height="150" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/JONATHAN-DEV-01" target="_blank">
+    <img src="https://api-meus-status.vercel.app/api/top-langs/?username=JONATHAN-DEV-01&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" height="150" alt="Linguagens Mais Usadas" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JONATHAN-DEV-01/JONATHAN-DEV-01/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JONATHAN-DEV-01/JONATHAN-DEV-01/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Game" src="https://raw.githubusercontent.com/JONATHAN-DEV-01/JONATHAN-DEV-01/output/pacman-contribution-graph-dark.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+### 🏆 Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/JONATHAN-DEV-01/gestao_estoque" target="_blank">
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=gestao_estoque&amp;theme=dracula&amp;hide_border=true" alt="Projeto Gestão de Estoque" />
+  </a>
+  <a href="https://github.com/JONATHAN-DEV-01/rpa_final" target="_blank">
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=rpa_final&amp;theme=dracula&amp;hide_border=true" alt="Projeto RPA Final" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/JONATHAN-DEV-01/IA_Recomendacao_jogos" target="_blank">
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=IA_Recomendacao_jogos&amp;theme=dracula&amp;hide_border=true" alt="Projeto IA Recomendação de Jogos" />
+  </a>
+  <a href="https://github.com/JONATHAN-DEV-01/Sistema-Feedback" target="_blank">
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=Sistema-Feedback&amp;theme=dracula&amp;hide_border=true" alt="Sistema de Feedback" />
+  </a>
+</p>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com/?color=BD71FA&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Jhonata++Nunes+Almeida;Eu+sou+de+São+Paulo,+SP;Bem-Vindo!&https://git.io/typing-svg"/>
 <hr>
+
 <h2>Technologies:</h2>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -28,9 +103,3 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataNunesAl&size=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataNunesAl&layout=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonataNunesAl&bg=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
