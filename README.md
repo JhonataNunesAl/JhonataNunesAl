@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Olá 👋, eu sou o Jonathan Nascimento!</h1>
-<h3 align="center">Desenvolvedor Fullstack (React & Python) | Entusiasta de Inteligência Artificial e RPA</h3>
+<h3 align="center">Analista B.I (React & Python) | Entusiasta de Inteligência Artificial e RPA</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonata-nunes-almeida-49877b299/" target="_blank">
@@ -37,10 +37,10 @@
 
 <p align="center">
   <a href="https://github.com/JhonataNunesAl" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api?username=JONATHAN-DEV-01&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://api-meus-status.vercel.app/api?username=JhonataNunesAl&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" height="150" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/JhonataNunesAl" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/top-langs/?username=JONATHAN-DEV-01&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" height="150" alt="Linguagens Mais Usadas" />
+    <img src="https://api-meus-status.vercel.app/api/top-langs/?username=JhonataNunesAl&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" height="150" alt="Linguagens Mais Usadas" />
   </a>
 </p>
 
@@ -58,18 +58,18 @@
 
 <p align="center">
   <a href="https://github.com/JhonataNunesAl/gestao_estoque" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=gestao_estoque&amp;theme=dracula&amp;hide_border=true" alt="Projeto Gestão de Estoque" />
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=JhonataNunesAl&amp;repo=gestao_estoque&amp;theme=dracula&amp;hide_border=true" alt="Projeto Gestão de Estoque" />
   </a>
   <a href="https://github.com/JhonataNunesAl/rpa_final" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=rpa_final&amp;theme=dracula&amp;hide_border=true" alt="Projeto RPA Final" />
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=JhonataNunesAl&amp;repo=rpa_final&amp;theme=dracula&amp;hide_border=true" alt="Projeto RPA Final" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/JhonataNunesAl/IA_Recomendacao_jogos" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=IA_Recomendacao_jogos&amp;theme=dracula&amp;hide_border=true" alt="Projeto IA Recomendação de Jogos" />
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=JhonataNunesAl&amp;repo=IA_Recomendacao_jogos&amp;theme=dracula&amp;hide_border=true" alt="Projeto IA Recomendação de Jogos" />
   </a>
   <a href="https://github.com/JhonataNunesAl/Sistema-Feedback" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=JONATHAN-DEV-01&amp;repo=Sistema-Feedback&amp;theme=dracula&amp;hide_border=true" alt="Sistema de Feedback" />
+    <img src="https://api-meus-status.vercel.app/api/pin/?username=JhonataNunesAl&amp;repo=Sistema-Feedback&amp;theme=dracula&amp;hide_border=true" alt="Sistema de Feedback" />
   </a>
 </p>
 <hr>
