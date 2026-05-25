@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Olá 👋, Sou Jhonata Almeida!</h1>
-<h3 align="center">Trainee in Business Intelligence | WPP Media – MFG Team</h3>
+<h3 align="center">Trainee in Business Intelligence | WPP Media – Google Team</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonata-nunes-almeida-49877b299/" target="_blank">
