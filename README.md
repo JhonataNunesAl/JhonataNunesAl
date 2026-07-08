@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🏢 Atualmente sou estagiário como B.I na **WPP Media (Time: Media Futures Group)**.
+- 🏢 Atualmente sou estagiário como B.I na **WPP Media (Time: Google Cloud)**.
 - 🎓 Estudante de **Sistemas de Informação na Faculdade Impacta** (previsão de formatura em 12/2027).
 - 💻 Construo automações completas usando **Python** no backend ou **JavaScript** no AppScript.
 - 🏗️ Foco em boas práticas de engenharia de software, utilizando padrões como **MVC** e **Arquitetura Hexagonal** para criar sistemas escaláveis e de fácil manutenção.
