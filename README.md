@@ -20,7 +20,7 @@
 - 💻 Construo automações completas usando **Python** no backend ou **JavaScript** no AppScript.
 - 🏗️ Foco em boas práticas de engenharia de software, utilizando padrões como **MVC** e **Arquitetura Hexagonal** para criar sistemas escaláveis e de fácil manutenção.
 - ⚙️ Entusiasta de RPA (Automação de Processos Robóticos) utilizando **PyAutoGUI**, **Selenium** e implementação de IAs (Sklearn, Pandas).
-- ☁️ Experiência com bancos de dados (**MySQL, PostgreSQL**) e deploy utilizando **Render, Vercel, Supabase e Docker**.
+- ☁️ Experiência com bancos de dados (**MySQL, PostgreSQL, BigQuery**) e deploy utilizando **Render, Vercel, Supabase e Docker**.
 - 🌐 Tenho bastante interesse na área de B.I e DevOps.
 
 ---
