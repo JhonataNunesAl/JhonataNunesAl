@@ -1,77 +1,60 @@
-﻿<h1 align="center">Olá 👋, Sou Jhonata Almeida!</h1>
-<h3 align="center">Trainee in Business Intelligence | WPP Media – Google Team</h3>
+<h1 align="center">Jhonata Almeida</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhonata-nunes-almeida-49877b299/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:yorn.exe@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/ffffff/gmail-new.png" alt="Email" height="35" width="35" />
-  </a>
+  <b>Automação & Business Intelligence</b><br>
+  Estagiário de BI na WPP Media · Time Google Cloud
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhonata-nunes-almeida-49877b299/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:yorn.exe@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
-- 🏢 Atualmente sou estagiário como B.I na **WPP Media (Time: Google Cloud)**.
-- 🎓 Estudante de **Sistemas de Informação na Faculdade Impacta** (previsão de formatura em 12/2027).
-- 💻 Construo automações completas usando **Python** no backend ou **JavaScript** no AppScript.
-- 🏗️ Foco em boas práticas de engenharia de software, utilizando padrões como **MVC** e **Arquitetura Hexagonal** para criar sistemas escaláveis e de fácil manutenção.
-- ⚙️ Entusiasta de RPA (Automação de Processos Robóticos) utilizando **PyAutoGUI**, **Selenium** e implementação de IAs (Sklearn, Pandas).
-- ☁️ Experiência com bancos de dados (**MySQL, PostgreSQL, BigQuery**) e deploy utilizando **Render, Vercel, Supabase e Docker**.
-- 🌐 Tenho bastante interesse na área de B.I e DevOps.
+Sou estagiário de Business Intelligence na **WPP Media**, no time que atende o **Google Cloud**. Minha função principal é desenvolver **bots e automações** que eliminam trabalho manual nos fluxos de dados e relatórios do time, da coleta e tratamento dos dados até a entrega final.
+
+Sou reconhecido como referência em automação entre os profissionais de BI que atendem a conta Google.
+
+- Automação de processos com **Python** e **Google Apps Script**
+- Consultas e tratamento de dados em **BigQuery** e SQL
+- RPA com **Selenium** e **PyAutoGUI**
+- Graduando em Sistemas de Informação na **Faculdade Impacta** (conclusão prevista em 2027)
+
+<!-- Opcional: troque a seção abaixo por números reais, se puder divulgá-los.
+### Impacto
+- X automações em produção usadas pelo time
+- ~X horas de trabalho manual economizadas por mês
+-->
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,mysql,postgres,react,js,ts,html,css,figma,wordpress,docker,git&amp;perline=7" alt="Habilidades" />
-</p>
-
----
-
-### 📊 Estatísticas e Atividade
-
-<p align="center">
-  <a href="https://github.com/JhonataNunesAl" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api?username=JhonataNunesAl&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/JhonataNunesAl" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/top-langs/?username=JhonataNunesAl&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" height="150" alt="Linguagens Mais Usadas" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonataNunesAl/JhonataNunesAl/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonataNunesAl/JhonataNunesAl/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Game" src="https://raw.githubusercontent.com/JhonataNunesAl/JhonataNunesAl/output/pacman-contribution-graph-dark.svg" width="100%">
-  </picture>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat&logo=googleappsscript&logoColor=white" alt="Google Apps Script">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white" alt="BigQuery">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
 
-### 🏆 Projetos em Destaque
+### Projetos
 
-<p align="center">
-  <a href="https://github.com/JhonataNunesAl/gestao_estoque" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=JhonataNunesAl&amp;repo=gestao_estoque&amp;theme=dracula&amp;hide_border=true" alt="Projeto Gestão de Estoque" />
-  </a>
-  <a href="https://github.com/JhonataNunesAl/rpa_final" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=JhonataNunesAl&amp;repo=rpa_final&amp;theme=dracula&amp;hide_border=true" alt="Projeto RPA Final" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/JhonataNunesAl/IA_Recomendacao_jogos" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=JhonataNunesAl&amp;repo=IA_Recomendacao_jogos&amp;theme=dracula&amp;hide_border=true" alt="Projeto IA Recomendação de Jogos" />
-  </a>
-  <a href="https://github.com/JhonataNunesAl/Sistema-Feedback" target="_blank">
-    <img src="https://api-meus-status.vercel.app/api/pin/?username=JhonataNunesAl&amp;repo=Sistema-Feedback&amp;theme=dracula&amp;hide_border=true" alt="Sistema de Feedback" />
-  </a>
-</p>
-<hr>
-<img src="https://readme-typing-svg.herokuapp.com/?color=BD71FA&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Jhonata++Nunes+Almeida;Eu+sou+de+São+Paulo,+SP;Bem-Vindo!&https://git.io/typing-svg"/>
-<hr>
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [rpa_final](https://github.com/JhonataNunesAl/rpa_final) | Automação de processo via RPA | Python, Selenium, PyAutoGUI |
+| [gestao_estoque](https://github.com/JhonataNunesAl/gestao_estoque) | Sistema de gestão de estoque | Python |
+| [IA_Recomendacao_jogos](https://github.com/JhonataNunesAl/IA_Recomendacao_jogos) | Sistema de recomendação de jogos com machine learning | Python, scikit-learn, Pandas |
+| [Sistema-Feedback](https://github.com/JhonataNunesAl/Sistema-Feedback) | Sistema de coleta e gestão de feedbacks | |
+
+<!-- Ajuste as descrições e tecnologias de cada projeto para refletir exatamente o que ele faz. -->
