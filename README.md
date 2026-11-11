@@ -22,6 +22,7 @@ Sou reconhecido como referência em automação entre os profissionais de BI que
 - Consultas e tratamento de dados em **BigQuery** e SQL
 - RPA com **Selenium** e **PyAutoGUI**
 - Graduando em Sistemas de Informação na **Faculdade Impacta** (conclusão prevista em 2027)
+- Fundador e atual presidente da **primeira atlética da Faculdade Impacta**
 
 <!-- Opcional: troque a seção abaixo por números reais, se puder divulgá-los.
 ### Impacto
