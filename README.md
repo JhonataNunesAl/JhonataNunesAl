@@ -16,8 +16,6 @@
 
 Sou estagiário de Business Intelligence na **WPP Media**, no time que atende o **Google Cloud**. Minha função principal é desenvolver **bots e automações** que eliminam trabalho manual nos fluxos de dados e relatórios do time, da coleta e tratamento dos dados até a entrega final.
 
-Sou reconhecido como referência em automação entre os profissionais de BI que atendem a conta Google.
-
 - Automação de processos com **Python** e **Google Apps Script**
 - Consultas e tratamento de dados em **BigQuery** e SQL
 - RPA com **Selenium** e **PyAutoGUI**
